@@ -5,6 +5,7 @@ Este proyecto incluye pruebas de Unidad, Integración y Aceptación para un cont
 El objetivo de esto era ver cómo escribir cada tipo de prueba en Spring y ver las ventajas/desventajas de cada uno.
 
 ![Captura de pantalla 2020-11-06 a las 19 08 54](https://user-images.githubusercontent.com/17026751/98405153-afe7fe80-2063-11eb-99a0-762e39f78589.png)
+https://drive.google.com/file/d/1INTtPsG-urKBXOB0SfAhxGR5lhk2Z23C/view?usp=sharing 
 
 ## Pruebas unitarias
 Prueba de pieza de código individual.
