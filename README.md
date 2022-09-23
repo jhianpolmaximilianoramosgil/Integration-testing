@@ -16,7 +16,7 @@ Probar la integración de unidades juntas.
 Probar la aplicación funciona de la forma en que el usuario espera que lo haga. Esto puede validar los requisitos comerciales.
 
 ## Ejecutando localmente
-`mvn spring-boot:ejecutar`
+mvn spring-boot:run
 
 ## Probando localmente
-`prueba mvn`
+mvn test
